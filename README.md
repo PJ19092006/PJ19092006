@@ -10,13 +10,11 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="100" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif"  />
 
 ###
 
-<h4 align="center">🔭 Currently working on an AI agent<br>👯 Looking to collaborate in hackathons<br>💼 Looking for a internship<br>🌱 I’m currently learning DevOps<br>💬 Ask me about Web Dev<br>⚡ Fun fact i can center a div</h4>
+<h4 align="left">🔭 Currently working on an AI agent<br>👯 Looking to collaborate in hackathons<br>💼 Looking for a internship<br>🌱 I’m currently learning DevOps<br>💬 Ask me about Web Dev<br>⚡ Fun fact i can center a div</h4>
 
 ###
 
