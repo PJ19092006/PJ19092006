@@ -2,25 +2,21 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="100" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif"  />
-</div>
+<img align="right" height="100" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif"  />
 
 ###
-
-<br clear="both">
 
 <p align="left">My name is Parjanay and I'm doing comp sci from University of Manitoba</p>
 
 ###
 
+<br clear="both">
+
 <h2 align="left">About me</h2>
 
 ###
 
-<h4 align="left">🔭 Currently working on an AI agent<br>👯 Looking to collaborate in hackathons<br>💼 Looking for a internship<br>🌱 I’m currently learning DevOps<br>💬 Ask me about Web Dev<br>⚡ Fun fact i can center a div</h4>
+<h4 align="center">🔭 Currently working on an AI agent<br>👯 Looking to collaborate in hackathons<br>💼 Looking for a internship<br>🌱 I’m currently learning DevOps<br>💬 Ask me about Web Dev<br>⚡ Fun fact i can center a div</h4>
 
 ###
 
