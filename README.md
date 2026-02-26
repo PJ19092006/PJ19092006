@@ -2,15 +2,21 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img height="100" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
 <p align="left">My name is Parjanay and I'm doing comp sci from University of Manitoba</p>
 
 ###
 
 <h2 align="left">About me</h2>
-
-###
-
-<img align="right" height="100" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif"  />
 
 ###
 
