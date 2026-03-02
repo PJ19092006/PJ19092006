@@ -97,24 +97,28 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=PJ19092006&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" />
 </div>
 
-
 ## 🌐 Socials:
+
 <div align="center">
-
-  <a href="https://www.instagram.com/par_janay/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  
+  <a href="https://www.linkedin.com/in/parjanay-dadwal-6875a7298" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 
-  <a href="https://www.linkedin.com/in/parjanay-dadwal-6875a7298">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+ <a href="https://x.com/Parjanay_dadwal" target="_blank">
+  <img src="https://cdn.simpleicons.org/x/ffffff" width="52" height="40" alt="x logo" />
+</a>
+
+  <a href="https://www.instagram.com/par_janay/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 
-  <a href="https://x.com/Parjanay_dadwal">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+  <a href="https://discord.gg/ySdMyBwP" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
 
-  <a href="mailto:parudadwhal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  <a href="mailto:parudadwhal@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 
 </div>
