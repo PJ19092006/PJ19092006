@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img align="right" width="350" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif"/>
+<img align="right" width="300" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif"/>
 
 🔭 I'm currently working with Kubernetes  
 👯 I’m looking to collaborate in hackathons  
