@@ -1,32 +1,15 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 💫 About Me:
 
-###
+<img align="right" width="350" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif"/>
 
-<img align="right" height="100" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif"  />
+🔭 I'm currently working with Kubernetes  
+👯 I’m looking to collaborate in hackathons  
+🤝 I’m looking for help with AI/ML  
+🌱 I’m currently learning DevOps  
+💬 Ask me about Web Dev  
+⚡ Fun fact: I can center a div  
 
-###
-
-<p align="left">My name is Parjanay and I'm doing comp sci from University of Manitoba</p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">About me</h2>
-
-###
-
-<h4 align="center">🔭 Currently working on an AI agent<br>👯 Looking to collaborate in hackathons<br>💼 Looking for a internship<br>🌱 I’m currently learning DevOps<br>💬 Ask me about Web Dev<br>⚡ Fun fact i can center a div</h4>
-
-###
-
-<br clear="both">
-
-<h2 align="left">I code with</h2>
-
-###
-
-<br clear="both">
+# 💻 Tech Stack:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -104,24 +87,38 @@
   <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
 </div>
 
-###
-
+# 📊 GitHub Stats:  
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PJ19092006&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=25&order=3" height="200" alt="streak graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PJ19092006&theme=dark&hide_border=false" />
 </div>
 
-###
+## 🔝 Top Contributed Repo
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=PJ19092006&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" />
+</div>
+
+## 🌐 Socials:
 
 <div align="center">
-  <a href="https://x.com/Parjanay_dadwal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  
+  <a href="https://www.linkedin.com/in/parjanay-dadwal-6875a7298" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://discord.gg/ySdMyBwP" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+
+ <a href="https://x.com/Parjanay_dadwal" target="_blank">
+  <img src="https://cdn.simpleicons.org/x/ffffff" width="52" height="40" alt="x logo" />
+</a>
+
   <a href="https://www.instagram.com/par_janay/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-</div>
 
-###
+  <a href="https://discord.gg/ySdMyBwP" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+
+  <a href="mailto:parudadwhal@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+
+</div>
