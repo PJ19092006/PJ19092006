@@ -139,7 +139,7 @@
   </a>
 
 </div>
-<img src="https://raw.githubusercontent.com/PJ19092006/PJ@19092006/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/PJ19092006/PJ19092006/output/snake.svg" alt="Snake animation" />
 
 <!-- <p align="center">
   <picture>
