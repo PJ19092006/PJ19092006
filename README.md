@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub;Initializing+projects..."/>
+</h1>
 
 <img align="right" width="300" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif"/>
 
@@ -97,6 +99,7 @@
 
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=PJ19092006&theme=shadow_blue&hide_border=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PJ19092006&theme=tokyonight"/>
 
 
 </div>
@@ -109,10 +112,19 @@
 
 </div>
 
-## 🔝 Top Contributed Repo
-<div align="center">
+## 🔝 Profile Summary
+<p align="center">
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PJ19092006&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PJ19092006&theme=tokyonight"/>
+
+</p>
+
+<!-- <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=PJ19092006&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" />
-</div>
+</div> -->
 
 ## 🌐 Socials:
 
@@ -139,9 +151,9 @@
   </a>
 
 </div>
-
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PJ19092006/PJ19092006/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PJ19092006/PJ19092006/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PJ19092006/PJ19092006/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
+
