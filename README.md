@@ -32,6 +32,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" height="40" alt="gsap logo" />
+<img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo" />
+<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
@@ -87,9 +91,22 @@
   <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
 </div>
 
-# 📊 GitHub Stats:  
+# 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PJ19092006&theme=dark&hide_border=false" />
+
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=PJ19092006&theme=shadow_blue&hide_border=true" height="170"/>
+
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PJ19092006&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+
 </div>
 
 ## 🔝 Top Contributed Repo
