@@ -139,7 +139,6 @@
   </a>
 
 </div>
-<img src="https://raw.githubusercontent.com/PJ19092006/PJ19092006/output/snake.svg" alt="Snake animation" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PJ19092006/PJ19092006/output/pacman-contribution-graph-dark.svg">
@@ -147,9 +146,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PJ19092006/PJ19092006/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PJ19092006/PJ19092006/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/PJ19092006/PJ19092006/output/github-snake.svg">
-  </picture>
-</p> -->
