@@ -138,6 +138,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 
-  <img src="https://raw.githubusercontent.com/arpanchristian2507/arpanchristian2507/output/snake.svg" alt="Snake animation" />
-
 </div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PJ19092006/PJ19092006/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/PJ19092006/PJ19092006/output/github-snake.svg">
+  </picture>
+</p>
