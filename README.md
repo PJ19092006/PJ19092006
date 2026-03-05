@@ -99,7 +99,6 @@
 
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=PJ19092006&theme=shadow_blue&hide_border=true" height="170"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PJ19092006&theme=tokyonight"/>
 
 
 </div>
@@ -112,15 +111,14 @@
 
 </div>
 
-## 🔝 Profile Summary
-<p align="center">
+<!-- <p align="center">
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PJ19092006&theme=tokyonight"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PJ19092006&theme=tokyonight"/>
 
-</p>
+</p> -->
 
 <!-- <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=PJ19092006&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" />
