@@ -102,9 +102,9 @@
 
 <p align="center">
 <!-- Top lang-->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PJ19092006&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PJ19092006&theme=tokyonight" width="300"/>
 <!-- Normal stat-->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PJ19092006&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PJ19092006&theme=tokyonight" width="300"/>
 </p>
 
 ## 🌐 Socials:
