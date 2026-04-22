@@ -95,63 +95,28 @@
 
 # 📊 GitHub Stats
 
+<!-- The commit graph -->
 <div align="center">
-
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=PJ19092006&theme=shadow_blue&hide_border=true" height="170"/>
-
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PJ19092006&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
 </div>
 
-<!-- <p align="center">
-
-
+<p align="center">
+<!-- Top lang-->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PJ19092006&theme=tokyonight"/>
-
+<!-- Normal stat-->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PJ19092006&theme=tokyonight"/>
-
-</p> -->
-
-<!-- <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=PJ19092006&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" />
-</div> -->
+</p>
 
 ## 🌐 Socials:
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/parjanay-dadwal-6875a7298" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-
- <a href="https://x.com/Parjanay_dadwal" target="_blank">
-  <img src="https://cdn.simpleicons.org/x/ffffff" width="52" height="40" alt="x logo" />
-</a>
-
-  <a href="https://www.instagram.com/par_janay/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-
-  <a href="https://discord.gg/ySdMyBwP" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-
-  <a href="mailto:parudadwhal@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/parjanay-dadwal-6875a7298"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" /></a>
+  <a href="https://x.com/Parjanay_dadwal"><img src="https://cdn.simpleicons.org/x/ffffff" width="52" /></a>
+  <a href="https://www.instagram.com/par_janay/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" /></a>
+  <a href="https://discord.gg/ySdMyBwP"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" /></a>
+  <a href="mailto:parudadwhal@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" /></a>
+</p>
 
 </div>
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PJ19092006/PJ19092006/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PJ19092006/PJ19092006/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PJ19092006/PJ19092006/output/pacman-contribution-graph.svg">
-</picture> -->
-
